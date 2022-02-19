@@ -1,4 +1,4 @@
-# spring-boot-cheetsheet
+# spring-boot-cheat-sheet
 
 
 ## Generate spring boot application by using Spring Initializr
