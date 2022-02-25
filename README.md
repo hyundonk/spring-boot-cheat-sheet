@@ -26,3 +26,8 @@ https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure
 
 - using r2dbc with spring boot
 https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-data-r2dbc-with-azure-mysql?toc=/azure/mysql/toc.json&bc=/azure/bread/toc.json
+
+
+### Using JPA
+When loading Data to the database when application starts, refer below for "spring.datasource.initialization-mode" option
+https://stackoverflow.com/questions/45082574/spring-boot-doesnt-load-data-to-initialize-database-using-data-sql
